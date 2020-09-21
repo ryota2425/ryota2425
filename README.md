@@ -1,4 +1,16 @@
-### Hi there 👋
+### ryota2425 👋
+
+- 🌱 I’m currently learning ...
+* IoT
+* CV
+* swift 
+* python
+
+# Busdes-iOS
+
+iosでの実装を行っています。
+<img src="https://user-images.githubusercontent.com/29476187/84763044-95ef4600-b006-11ea-818e-d88bdb2b1415.png" width="400px">
+
 
 <!--
 **ryota2425/ryota2425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
