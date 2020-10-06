@@ -3,8 +3,11 @@
 - 🌱 I’m currently learning ...
    IoT
    CV
-   swift 
+   C,
+   R,
+   swift,
    python
+   
 
 # Busdes-iOS
 
