@@ -1,5 +1,5 @@
 
-# ポートフォリオ
+# portfolio
 - 🌱 興味があること ...IoT, CV,C,R,swift,python
    
 
