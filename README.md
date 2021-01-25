@@ -13,8 +13,10 @@ iosでの実装を行っています。
 App Store [iOS](https://apps.apple.com/jp/app/busdes-%E3%83%90%E3%82%B9%E3%81%A7%E3%81%99/id1491015874/)
 Google Playストア [android](https://play.google.com/store/apps/details?id=busdes.rits.jp&hl=ja)
 
-###掲載メディア
-立命館大学新聞社 [BKCバス用「Busdes!」](https://ritsumeikanunivpress.com/07/11/4430/)
+### 掲載メディア
+立命館大学新聞社WEB [BKCバス用「Busdes!」](https://ritsumeikanunivpress.com/07/11/4430/)
+立命館大学新聞2020年 [立命館大学新聞](http://ritsumeikanunivpress.com/04/28/3594/)
+syumirun![【次のバスまでカウントダウン！！】使わないと大損するバス時刻管理アプリ”Busdes!](http://syumi-do.xyz/2020/03/01/busdes/)
 
 
 ## 学食アプリ
