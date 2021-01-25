@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/29476187/84763044-95ef4600-b006-11ea-818e-d88bdb2b1415.png" width="200px">
 </p>
-iosでの実装を全て行っています。
+iosでの実装を全て行っています。  
 行先に最も速く着くバスをカウントダウンで知らせてくれます。  
 最新の遅延情報に対応し、リアルタイムで接近情報を表示します。
 
@@ -23,13 +23,12 @@ syumirun[使わないと大損するバス時刻管理アプリBusdes](http://sy
 
 
 ## 学食アプリ
-学内の食堂の営業時間を確認できたり、移動販売店の出店状況を確認できたりします。  
-初めてリリースしたアプリです。
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/29476187/105667526-bf6a3b80-5f1e-11eb-9859-d21af16a2e59.png" width="200px">
 </p>
-
+学内の食堂の営業時間を確認できたり、移動販売店の出店状況を確認できたりします。  
+初めてリリースしたアプリです。
 ###  インストール
 App Store [iOS](https://apps.apple.com/jp/app/yummy-%E7%AB%8B%E5%91%BD%E9%A4%A8%E5%A4%A7%E5%AD%A6%E7%94%9F%E3%81%AE%E5%AD%A6%E9%A3%9F%E3%82%A2%E3%83%97%E3%83%AA/id1452064693)  
 ### 掲載メディア
@@ -38,11 +37,10 @@ App Store [iOS](https://apps.apple.com/jp/app/yummy-%E7%AB%8B%E5%91%BD%E9%A4%A8%
 
 
 ## toDOアプリ
-タスクを進捗グラフともに管理できるアプリです。
 <p align="center">
   <img src="https://user-images.githubusercontent.com/29476187/105667339-6ef2de00-5f1e-11eb-84cf-a2bf90999156.png" width="200px">
 </p>
-
+タスクを進捗グラフともに管理できるアプリです。
 ###  インストール
 toDo管理ツール App Store [iOS](https://apps.apple.com/us/app/todo%E3%83%AA%E3%82%B9%E3%83%88-%E4%BA%88%E5%AE%9A%E6%97%A5%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%A7%E3%81%8D%E3%82%8B/id1477626658)
 
