@@ -16,7 +16,7 @@ Google Playストア [android](https://play.google.com/store/apps/details?id=bus
 ### 掲載メディア
 立命館大学新聞社WEB [BKCバス用「Busdes!」](https://ritsumeikanunivpress.com/07/11/4430/)  
 立命館大学新聞2020年 [立命館大学新聞](http://ritsumeikanunivpress.com/04/28/3594/)  
-syumirun![立命館大学新聞](【次のバスまでカウントダウン！！】使わないと大損するバス時刻管理アプリ”Busdes!)  
+syumirun![立命館大学新聞](使わないと大損するバス時刻管理アプリ”Busdes!)  
 
 
 
