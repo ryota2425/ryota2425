@@ -23,7 +23,7 @@ syumirun![立命館大学新聞](使わないと大損するバス時刻管理�
 ## 学食アプリ
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/29476187/105667526-bf6a3b80-5f1e-11eb-9859-d21af16a2e59.png" width="400px">
+  <img src="https://user-images.githubusercontent.com/29476187/105667526-bf6a3b80-5f1e-11eb-9859-d21af16a2e59.png" width="200px">
 </p>
 学食アプリ [YUMMY](http://www.watnow.jp/yummy-%E7%AB%8B%E5%91%BD%E9%A4%A8%E5%A4%A7%E5%AD%A6%E7%94%9F%E3%81%AE%E5%AD%A6%E9%A3%9F%E3%82%A2%E3%83%97%E3%83%AA/)
 
