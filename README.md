@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/29476187/84763044-95ef4600-b006-11ea-818e-d88bdb2b1415.png" width="200px">
 </p>
-iosでの実装を行っています。
+iosでの実装を全て行っています。
 
 
 App Store [iOS](https://apps.apple.com/jp/app/busdes-%E3%83%90%E3%82%B9%E3%81%A7%E3%81%99/id1491015874/)
