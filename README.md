@@ -1,11 +1,7 @@
 
 # portfolio
 
-### Github Status
-![CarNavi's github stats](https://github-readme-stats.vercel.app/api?username=ryota2425&show_icons)
-![CarNavi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ryota2425&show_icons=true&layout=compact&show_icons=true)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryota2425)](https://github.com/ryota2425/github-profile-trophy)
-  
+
 
 ## Busdes-iOS
 iosでの実装を全て行っています。  
@@ -52,3 +48,8 @@ App Store [iOS](https://apps.apple.com/jp/app/yummy-%E7%AB%8B%E5%91%BD%E9%A4%A8%
 ###  インストール
 toDo管理ツール App Store [iOS](https://apps.apple.com/us/app/todo%E3%83%AA%E3%82%B9%E3%83%88-%E4%BA%88%E5%AE%9A%E6%97%A5%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%A7%E3%81%8D%E3%82%8B/id1477626658)
 
+## Github Status
+![CarNavi's github stats](https://github-readme-stats.vercel.app/api?username=ryota2425&show_icons)
+![CarNavi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ryota2425&show_icons=true&layout=compact&show_icons=true)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryota2425)](https://github.com/ryota2425/github-profile-trophy)
+  
