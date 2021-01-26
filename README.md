@@ -9,7 +9,7 @@
   
 <!--ProgrammingLanguage & ProgrammingTools & Library & DataFormat-->
 <p align="center">
-<img src="https://img.shields.io/badge/Python-f9d64e.svg?logo=python&style=flat"> <img src="https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&style=plastic"> <img src="https://img.shields.io/badge/TesorFlow-aa4c00.svg?logo=tensorflow&style=flat"> <img src="https://img.shields.io/badge/Keras-CC0000.svg?logo=keras&style=flat"> <img src="https://img.shields.io/badge/PyTorch-aa381e.svg?logo=pytorch&style=flat"> <img src="https://img.shields.io/badge/OpenCV-FF0000.svg?logo=opencv&style=flat"> <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic"> <img src="https://img.shields.io/badge/Android-AAAAAA.svg?logo=android&style=flat">
+<img src="https://img.shields.io/badge/Python-f9d64e.svg?logo=python&style=flat"> <img src="https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&style=plastic"> <img src="https://img.shields.io/badge/TesorFlow-aa4c00.svg?logo=tensorflow&style=flat"> <img src="https://img.shields.io/badge/Keras-CC0000.svg?logo=keras&style=flat"> <img src="https://img.shields.io/badge/PyTorch-aa381e.svg?logo=pytorch&style=flat"> <img src="https://img.shields.io/badge/OpenCV-FF0000.svg?logo=opencv&style=flat">
 <p>
 <!--OS: Linux & Ubuntu & Vim-->
 <p align="center">
