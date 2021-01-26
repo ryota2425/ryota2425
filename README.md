@@ -1,6 +1,11 @@
 
 # portfolio
-   
+
+### Github Status
+![CarNavi's github stats](https://github-readme-stats.vercel.app/api?username=ryota2425&show_icons)
+![CarNavi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ryota2425&show_icons=true&layout=compact&show_icons=true)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryota2425)](https://github.com/ryota2425/github-profile-trophy)
+  
 
 ## Busdes-iOS
 iosでの実装を全て行っています。  
